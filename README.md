@@ -110,4 +110,30 @@ R² Score: To quantify the proportion of variance explained by the model.
 - Shows **consistent and stable predictions**
 - Gives **predicted fares close to actual fares**
 
+## 🧭 Usage
 
+1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git && cd your-repo-name`  
+2. Install dependencies: `pip install -r requirements.txt`  
+3. Train the model: `python train_model.py`  
+4. Make predictions: `python predict.py --input data/sample_input.csv`  
+5. Evaluate the model: `python evaluate.py`  
+
+> Ensure required datasets are placed in the `data/` folder before execution.
+
+
+### 👥 Contributors
+
+- **Md Altamash Alam**
+- **Amreen Perween**
+
+### 📄 License
+
+This project is protected under copyright © Md Altamash Alam, 2025.
+
+All rights reserved. Unauthorized copying, distribution, modification, or use of any part of this project without explicit permission is strictly prohibited.
+
+If you wish to use or reference any part of this project for academic, personal, or commercial purposes, please contact the author for permission.
+
+---
+
+© Md Altamash Alam, 2025 – All Rights Reserved.
