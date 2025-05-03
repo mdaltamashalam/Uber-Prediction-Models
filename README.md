@@ -1,4 +1,4 @@
-# Uber-Prediction-Models
+# Uber Fare-Prediction-Models
 Fare Amount Prediction  
 Ride Demand Prediction  
 ETA (Estimated Time of Arrival) Prediction  
