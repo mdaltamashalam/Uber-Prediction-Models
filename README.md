@@ -57,6 +57,8 @@ R² Score: To quantify the proportion of variance explained by the model.
 | XGBoost          | 3.07  | 0.69     |
 | LightGBM         | 2.99  | 0.70     |
 
+![Phase1](https://github.com/user-attachments/assets/08254d56-6e91-4e20-b658-deb86856da28)
+
 
 ### 📊 Final Model Performance Comparison (Phase-2)
 
@@ -65,6 +67,9 @@ R² Score: To quantify the proportion of variance explained by the model.
 | Linear Regression | 5.563649 | -0.026717 |
 | XGBoost           | 2.777773 | 0.744068  |
 | LightGBM          | 2.992365 | 0.702997  |
+
+![Phase2](https://github.com/user-attachments/assets/f98e80c1-764f-4352-8b20-439e42b677ec)
+
 
 ### 📊 Final Model Performance Comparison (Phase-3)
 
@@ -75,6 +80,9 @@ R² Score: To quantify the proportion of variance explained by the model.
 | **LGBM**   | RMSE              | 3.1142  |
 |           | R² Score          | 0.7852  |
 
+![Phase 3](https://github.com/user-attachments/assets/ea2495e3-20f2-4881-b20c-589091698d5a)
+
+
 ### 📊 Final Model Performance Comparison (Phase-4)
 
 | Model   | Metric            | Value   |
@@ -83,6 +91,8 @@ R² Score: To quantify the proportion of variance explained by the model.
 |           | R² Score          | 0.8173  |
 | **Final Model** | RMSE              | 2.8007  |
 |           | R² Score          | 0.8263  |
+
+![Phase4](https://github.com/user-attachments/assets/741259d5-41ee-4692-9965-30733ff50723)
 
 ---
 
